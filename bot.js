@@ -19,7 +19,7 @@ async def on ready ();
 
 
 
-	
+bot.run("process.env.BOT_TOKEN")
 
-client.login(process.env.BOT_TOKEN);
+
 
